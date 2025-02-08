@@ -106,6 +106,6 @@ A **MERN stack** web application where developers can **sign up, log in, view bl
 ---
 ### 📌 Connect with Me
 For any queries or collaboration, reach out to me on:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/vishesh64)
-- GitHub: [Your GitHub Profile](https://github.com/Vishesh1164)
+- LinkedIn: [vishesh64](https://linkedin.com/in/vishesh64)
+- GitHub: [Vishesh1164](https://github.com/Vishesh1164)
 
