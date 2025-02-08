@@ -21,7 +21,7 @@ A **MERN stack** web application where developers can **sign up, log in, view bl
 ## Screenshots
 
 **Home Page:**
-![Home Page](public/screenshot/Screenshot 2025-02-07 203550.png)
+![image](public/screenshot/Screenshot 2025-02-07 203550.png)
 
 **Signup Page:**
 ![Signup Page](screenshots/signup.png)
