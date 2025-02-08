@@ -67,8 +67,8 @@ A **MERN stack** web application where developers can **sign up, log in, view bl
 
 1. **Clone the Repository**
 ```sh
- git clone https://github.com/your-username/developer-blogs.git
- cd developer-blogs
+ git clone https://github.com/Vishesh1164/Developer-Blogs.git
+ cd Developer-Blogs
 ```
 
 2. **Backend Setup**
@@ -106,6 +106,6 @@ A **MERN stack** web application where developers can **sign up, log in, view bl
 ---
 ### 📌 Connect with Me
 For any queries or collaboration, reach out to me on:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/vishesh64)
+- GitHub: [Your GitHub Profile](https://github.com/Vishesh1164)
 
