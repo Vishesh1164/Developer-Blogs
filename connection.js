@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
-
+require('dotenv).config();
+const mongodb_url=process.env.MONGO_URL;
 const url =mongodb_url;
 
 // asynchronous function - returns promise
